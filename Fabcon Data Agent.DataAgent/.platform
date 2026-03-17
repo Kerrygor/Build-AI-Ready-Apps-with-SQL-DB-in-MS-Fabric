@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataAgent",
+    "displayName": "Fabcon Data Agent"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "467f499f-97e2-ba08-47f4-610cea532aa5"
+  }
+}
